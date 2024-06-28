@@ -1,6 +1,6 @@
 # created by virtualenv automatically
 .idea
-.env
+api/.env
 /walkthrough/
 .DS_STORE
 /.ipynb_checkpoints/
