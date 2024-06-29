@@ -2,7 +2,7 @@
   "name": "monorepo-template",
   "private": true,
   "version": "1.0.0",
-  "author": "Brace Sproul",
+  "author": "Don Percival",
   "license": "MIT",
   "workspaces": [
     "api",
